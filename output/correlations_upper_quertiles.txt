@@ -1,0 +1,13 @@
+n=45	translation_semantic	translation_wer	es_recall_wer	en_recall_wer	multiple_choice	self_report
+translation_semantic-r	-	0.892***	0.704***	0.335	0.235	0.584***
+translation_semantic-p		1.838652448136963e-16	6.80142576319748e-08	0.024596341137616756	0.11965484541034353	2.5450777630704003e-05
+translation_wer-r		-	0.864***	0.369	0.399	0.654***
+translation_wer-p			2.204763594023608e-14	0.012560469672818443	0.006553198815042414	1.1054389548527742e-06
+es_recall_wer-r			-	0.297	0.443	0.633***
+es_recall_wer-p				0.04793147705879576	0.00228281538122304	3.125643479238676e-06
+en_recall_wer-r				-	0.541	0.392
+en_recall_wer-p					0.00012443514657291794	0.007698676587838997
+multiple_choice-r					-	0.302
+multiple_choice-p						0.0441428170867424
+self_report-r						-
+self_report-p						
